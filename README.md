@@ -309,7 +309,7 @@ In this post, we have showed that by using a Neural Network, we can easily outpe
 
 Furthermore, we need to have in mind that the explored dataset can be somehow outdated, and some feature engineering (such as correcting prices for inflaction) could be performed in order to better reflect current scenarios.
 
-The Jupyter notebook for this post can be found [here](/notebooks/03_cnn_boston.ipynb).
+The Jupyter notebook for this post can be found [here](/notebook.ipynb).
 
 #### References
 Boston Dataset: [https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
