@@ -35,7 +35,7 @@ This should output the following dataframe:
 
 Making yourself comfortable and familiar with your dataset is a fundamental step to help you comprehend your data and draw better conclusions and explanations from your results.
 
-Initially, let's plot a few box plots, which will help us to better visualizate anomalies and/or outliers in data distribution. If you are confused about what is a box plot and how it can help us to better visualizate the distribution of our data, here is a brief description from Ross (1977):
+Initially, let's plot a few box plots, which will help us to better visualize anomalies and/or outliers in data distribution. If you are confused about what is a box plot and how it can help us to better visualize the distribution of our data, here is a brief description from Ross (1977):
 
 > In descriptive statistics, a box plot is a method for graphically depicting groups of numerical data through their quartiles. Box plots may also have lines extending vertically from the boxes (whiskers) indicating variability outside the upper and lower quartiles, hence the terms box-and-whisker plot and box-and-whisker diagram. Outliers may be plotted as individual points.
 
